@@ -1,4 +1,5 @@
-# GETNext
+# MGFormer
+
 
 This is the pytorch implementation of paper "MGFormer: A Graph-Enhanced Transformer Framework for Long-Range Gap Imputation of AIS Trajectories"
 
